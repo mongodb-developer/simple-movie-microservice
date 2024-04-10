@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This tutorial guides you through deploying a simplistic Java Spring Boot microservice application on the Azure Kubernetes Service (AKS). It aims to showcase the power and flexibility of microservices architecture, particularly when combined with Kubernetes for orchestration. The application allows users to write reviews for movies stored in a MongoDB database, highlighting the dynamic, loosely coupled nature of microservices and the ease of inter-service communication within a Kubernetes environment.
+This repo is supporting material for a tutorial that guides you through deploying a simplistic Java Spring Boot microservice application on the Azure Kubernetes Service (AKS). It aims to showcase the power and flexibility of microservices architecture, particularly when combined with Kubernetes for orchestration. The application allows users to write reviews for movies stored in a MongoDB database, highlighting the dynamic, loosely coupled nature of microservices and the ease of inter-service communication within a Kubernetes environment.
 
 ## Prerequisites
 - A [MongoDB Atlas](https://www.mongodb.com/cloud/atlas?tck=docs_atlas) account, if you don't have one already, with a cluster ready with the [MongoDB sample data](https://www.mongodb.com/basics/sample-database#:~:text=Does%20MongoDB%20Provide%20Sample%20Datasets,in%20only%20a%20few%20clicks.)
