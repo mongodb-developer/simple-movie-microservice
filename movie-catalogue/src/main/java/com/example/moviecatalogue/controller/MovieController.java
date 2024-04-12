@@ -11,7 +11,7 @@ import java.util.List;
 @RequestMapping("/movies")
 public class MovieController {
     
-	private MovieRepository movieRepository;
+	private final MovieRepository movieRepository;
 
 	public MovieController(MovieRepository movieRepository) {
 		this.movieRepository = movieRepository;
